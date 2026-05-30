@@ -1,5 +1,10 @@
-from protein import Protein
+from downloader import download_fasta
 
-p1 = Protein("P00519")
 
-print(p1.uniprot_id)
+with open("proteins.txt") as file:
+
+    for line in file:
+
+        protein_id = line.strip()
+
+        download_fasta(protein_id)
