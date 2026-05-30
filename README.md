@@ -19,13 +19,13 @@ Entrega-Final/
 │   ├── build_pfam.py
 │   ├── scan_proteins.py
 │   └── summarize_results.py
+│   └── proteins.txt   
 │
 ├── data/
 │   ├── fasta/
 │   ├── results/
 │   └── protein_families.csv
 │
-├── PFAMdescargas/
 ├── README.md
 └── .gitignore
 ```
