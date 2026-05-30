@@ -1,5 +1,23 @@
+# Python
 __pycache__/
 *.pyc
+
+# Secuencias FASTA
 *.fasta
+
+# Archivos HMM
 *.hmm
+*.h3f
+*.h3i
+*.h3m
+*.h3p
+*.ssi
+
+# Resultados HMMER
 *.tbl
+
+# Datos generados
+data/
+
+# Bases de datos Pfam
+PFAMdescargas/
