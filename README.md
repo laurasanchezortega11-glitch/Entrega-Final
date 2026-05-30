@@ -21,10 +21,6 @@ Entrega-Final/
 │   └── summarize_results.py
 │   └── proteins.txt   
 │
-├── data/
-│   ├── fasta/
-│   ├── results/
-│   └── protein_families.csv
 │
 ├── README.md
 └── .gitignore
